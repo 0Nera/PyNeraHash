@@ -1,4 +1,4 @@
 .vscode/
-*.gz
-*.pyc
+dist/
 PyNeraHash.egg-info/
+*.pyc
