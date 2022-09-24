@@ -1,2 +1,2 @@
-# NeraHash
+# PyNeraHash
  
